@@ -1,0 +1,100 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+paginate = 6
+theme = "portio"
+title = "H4You"
+# Main Menu
+[[menu.main]]
+name = "Bemutatkozas"
+url = "#epiteni-szeretunk"
+weight = 1
+[[menu.main]]
+name = "Csapat"
+url = "#kik-vagyunk-mi"
+weight = 2
+[[menu.main]]
+name = "Tevekenysegeink"
+url = "#tevekenysegeink"
+weight = 3
+[[menu.main]]
+name = "Referenciak"
+url = "#nezze-meg-aktualis-munkainkat"
+weight = 4
+[[menu.main]]
+[[menu.main]]
+name = "Blog"
+url = "#blog"
+weight = 5
+[[menu.main]]
+name = "Kapcsolat"
+url = "#contact"
+weight = 6
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Bemutatkozas"
+url = "epiteni-szeretunk"
+weight = 1
+[[menu.sitemap]]
+name = "Csapat"
+url = "kik-vagyunk-mi"
+weight = 2
+[[menu.sitemap]]
+name = "Tevekenysegeink"
+url = "tevekenysegeink"
+weight = 3
+[[menu.sitemap]]
+name = "Referenciak"
+url = "nezze-meg-aktualis-munkainkat"
+weight = 4
+[[menu.sitemap]]
+name = "Blog"
+url = "blog"
+weight = 5
+[[menu.sitemap]]
+name = "Kapcsolat"
+url = "contact"
+weight = 6
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 7
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "All right reserved copyright © Home4U 2020"
+footerLogo = "images/contact/widget-logo-footer.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "Szente, Kossuth út 74 2, 2655"
+email = "joska@example.com"
+openingHours = "(csak időpont egyeztetéssel)"
+phone = "+(36) 30 555 666"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/"
+weight = 2
+[[params.social]]
+icon = "fa-pinterest-square"
+url = "https://www.pinterest.com/"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/"
+weight = 4

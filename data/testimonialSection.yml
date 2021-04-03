@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Velemenyek
+title: >
+  ## Rolunk mondtak?
+
+testimonial:
+  - name: Kis Geza
+    comment: Fuh de jo vagy 1.
+    time: Jan 20, 2020
+    star: 5
+  - name: Nagy Geza
+    comment: Fuh de jo vagy 2.
+    time: Jan 16, 2020
+    star: 4
+  - name: Kozepes Geza
+    comment: Fuh de jo vagy 3.
+    time: Mar 08, 2020
+    star: 3

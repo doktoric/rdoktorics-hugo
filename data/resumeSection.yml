@@ -1,0 +1,31 @@
+---
+enable: true
+topTitle: Eddigi munkaink
+title: >
+
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+
+
+  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+
+education:
+  - content: >
+      #### szuper nagy haz 1
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### szuper nagy haz 2
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### szuper nagy haz 3
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010
+  - content: >
+      #### szuper nagy haz 4
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
+    time: 2008-2010

@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Csapat
+title: >
+  ## Kik vagyunk mi? 
+
+  Az On alma a mi szenvedelyunk. Bizza rank a kivitelezest es mi kihozzuk almaibol a maximumot.
+content: >
+  ###  Társaságunk ambíciózusan áll a tervezési feladataihoz
+
+  Mindannyian valljuk, hogy az építõ számára a megepitett épület több mint az anyag
+  összessége – az építtető álma valósul meg ilyenkor. Azt a teret álmodják meg, amiben 
+  életüknek jelentős és fontos részét élik – éppen ezért elengedhetetlen, hogy az építész 
+  az együttműködés legelejétől átérezze a megrendelők szükségleteit, vágyait, megismerje a 
+  napi rutint, szokásait – hogy a tervezett lakóházat tökéletesen az egyedi igényekre tudja alakítani.
+button1Name: Kapcsolat
+button1Target: kapcsolat
+image: images/about/about-img.jpg
